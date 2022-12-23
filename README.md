@@ -4,6 +4,7 @@
 
     > Projeto desenvolvido puramente com React-js, durante o Bootcamp-Orange-Tech
     disponibilizado pela DIO em parceria com o banco Inter.
+    > Desafio de projeto DIO 
 
 ## 🌍 Tecnologias
 
